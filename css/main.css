@@ -1,0 +1,90 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    padding: 1.75rem;
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 2rem;
+}
+.navbar-nav{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.black{
+    color:black;
+}
+.black:hover{
+    color:#fd7e14;
+}
+
+.pa-3{
+    padding: 30px;
+}
+.pt-5{
+    padding-top: 50px;
+}
+.pt-7{
+    padding-top: 70px;
+}
+.pb-5{
+    padding-bottom: 50px;
+}
+.pb-12{
+    padding-bottom: 120px;
+}
+
+.no-wrap{
+    flex-wrap: wrap;
+}
+
+.btn{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.btn-sm{
+    width:100px;
+}
+.btn-orange{
+    background-color: #ff412e;
+    color:white;
+    height: 50px;
+}
+
+.text-orange{
+    color:#ff412e;
+}
+.text-align-center{
+    text-align: center;
+}
+
+/*
+Product.html;
+*/
+.card-price{
+    color:gray;
+}
+.card-body a{
+    width: 100px;
+    height: 50px;
+}
+
+/*
+Contact.htm;
+*/
+.form-group{
+    margin-bottom: 10px;
+}
+
+/*
+About.html
+*/
+.about-img img{
+    width: 500px;
+}
+.gray{
+    color:gray;
+}
